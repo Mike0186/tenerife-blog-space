@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ddvb6#5wanhs#t_*lnh87#3o3&wi+1#+ftz#nf!!dp@&re0aue
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-mike0186-tenerifeblogsp-afj2ve1wnoy.ws-eu108.gitpod.io'
+    '8000-mike0186-tenerifeblogsp-r5m17zty62z.ws-eu108.gitpod.io'
 ]
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Welcome',
+    'welcome',
     'about',
 ]
 
